@@ -1,0 +1,12 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/mbp/Desktop/VScodeDir/C语言/List"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5shuruR6SqList, symObjAddr: 0x0, symBinAddr: 0x1000039E0, symSize: 0xF0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z5shuruR6SqList, symObjAddr: 0x0, symBinAddr: 0x1000039E0, symSize: 0xF0 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: __Z5print6SqList, symObjAddr: 0xF0, symBinAddr: 0x100003AD0, symSize: 0x80 }
+  - { offsetInCU: 0xD7, offset: 0xD7, size: 0x8, addend: 0x0, symName: __Z7chazhao6SqList3stu, symObjAddr: 0x170, symBinAddr: 0x100003B50, symSize: 0x90 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: __Z6insertR6SqListi3stu, symObjAddr: 0x200, symBinAddr: 0x100003BE0, symSize: 0xB0 }
+  - { offsetInCU: 0x18E, offset: 0x18E, size: 0x8, addend: 0x0, symName: __Z9unionListR6SqListS0_, symObjAddr: 0x2B0, symBinAddr: 0x100003C90, symSize: 0x1A0 }
+  - { offsetInCU: 0x1FF, offset: 0x1FF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x450, symBinAddr: 0x100003E30, symSize: 0x100 }
+...

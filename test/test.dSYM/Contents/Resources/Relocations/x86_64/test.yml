@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/mesonsaber/Desktop/VScodeDir/C/test/test'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5inputPc, symObjAddr: 0x0, symBinAddr: 0x1000034C0, symSize: 0x30 }
+  - { offsetInCU: 0x8E, offset: 0x8E, size: 0x8, addend: 0x0, symName: __Z5inputPc, symObjAddr: 0x0, symBinAddr: 0x1000034C0, symSize: 0x30 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: __Z6SelectP6HTNodeiPiS1_, symObjAddr: 0x30, symBinAddr: 0x1000034F0, symSize: 0x120 }
+  - { offsetInCU: 0x15C, offset: 0x15C, size: 0x8, addend: 0x0, symName: __Z7Select2P6HTNodeiPiS1_, symObjAddr: 0x150, symBinAddr: 0x100003610, symSize: 0x230 }
+  - { offsetInCU: 0x1F4, offset: 0x1F4, size: 0x8, addend: 0x0, symName: __Z17CreateHuffmanTreeRP6HTNodei, symObjAddr: 0x380, symBinAddr: 0x100003840, symSize: 0x1E0 }
+  - { offsetInCU: 0x2A8, offset: 0x2A8, size: 0x8, addend: 0x0, symName: __Z14TextStatisticsPcS_PiS0_, symObjAddr: 0x560, symBinAddr: 0x100003A20, symSize: 0x140 }
+  - { offsetInCU: 0x352, offset: 0x352, size: 0x8, addend: 0x0, symName: __Z6strchrB7v160006Ua9enable_ifIXLb1EEEPci, symObjAddr: 0x6A0, symBinAddr: 0x100003B60, symSize: 0x30 }
+  - { offsetInCU: 0x38C, offset: 0x38C, size: 0x8, addend: 0x0, symName: __Z11HuffmanCodeP6HTNodeP9HCodeTypePci, symObjAddr: 0x6D0, symBinAddr: 0x100003B90, symSize: 0x140 }
+  - { offsetInCU: 0x432, offset: 0x432, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x810, symBinAddr: 0x100003CD0, symSize: 0x270 }
+...

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD471167-1E30-4079-8DAA-6061545E93D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "489309CB-F8BA-4E36-A339-609DD2DE8C2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "linklists/main.c++"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "InitList(L, x)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13E59645-D874-4CAD-A1C9-478E80E16472"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "linklists/main.c++"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "13E59645-D874-4CAD-A1C9-478E80E16472 - c91c6d6e243496de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SortedMerge(Node*, Node*)"
+                  moduleName = "linklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mesonsaber/Desktop/VScodeDir/C/DataStruct/linklists/linklists/main.c++"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "13E59645-D874-4CAD-A1C9-478E80E16472 - c91c6d6e243496de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SortedMerge(Node*, Node*)"
+                  moduleName = "linklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mesonsaber/Desktop/VScodeDir/C/DataStruct/linklists/linklists/main.c++"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC794403-3AEA-4C6B-9D83-ABBD44E553A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "linklists/main.c++"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "FC794403-3AEA-4C6B-9D83-ABBD44E553A6 - ec2abf7d0f24381c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MergeList(Node*&amp;, Node*&amp;, Node*&amp;)"
+                  moduleName = "linklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mesonsaber/Desktop/VScodeDir/C/DataStruct/linklists/linklists/main.c++"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FC794403-3AEA-4C6B-9D83-ABBD44E553A6 - ec2abf7d0f243b98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MergeList(Node*&amp;, Node*&amp;, Node*&amp;)"
+                  moduleName = "linklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mesonsaber/Desktop/VScodeDir/C/DataStruct/linklists/linklists/main.c++"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE7458BD-7AAB-4181-B97C-0426B05E5DB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "linklists/main.c++"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "Max(L)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EE7458BD-7AAB-4181-B97C-0426B05E5DB1 - 7151bbdb8277e2c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisCompose(Node*, Node*&amp;, Node*&amp;)"
+                  moduleName = "linklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mesonsaber/Desktop/VScodeDir/C/DataStruct/linklists/linklists/main.c++"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "EE7458BD-7AAB-4181-B97C-0426B05E5DB1 - 7151bbdb8277e2c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DisCompose(Node*, Node*&amp;, Node*&amp;)"
+                  moduleName = "linklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mesonsaber/Desktop/VScodeDir/C/DataStruct/linklists/linklists/main.c++"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
